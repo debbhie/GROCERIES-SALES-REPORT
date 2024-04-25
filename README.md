@@ -24,4 +24,10 @@
 * Evaluate the impact of discounts on sales revenue and profitability.
 * Identify opportunities for improvement cost-savung measures and strategies to maximize revenue and profitability in the groceries sales business.
 
+## DaTA SOURCE
+The primary data use for this analysis is gotten from microsoft excel. This file can also be gotten from google sheet on chrome.
 
+## DATTA TOOLS
+- Microsoft excel - dataset
+- Microsoft excel - build dashboard
+  -[download here](www.microsoft.com)
