@@ -31,3 +31,6 @@ The primary data use for this analysis is gotten from microsoft excel. This file
 - Microsoft excel - dataset
 - Microsoft excel - build dashboard
   -[download here](www.microsoft.com)
+
+## EXPLORATORY DATA ANALYSIS
+EDA involves exploring the dataset to answer primary key indicator (KPI) questions as follows:
