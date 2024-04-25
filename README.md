@@ -12,5 +12,7 @@
   * PROFIT: Calculate the profit generated from groceries sales, considering factors such as unit sold, manufacturing prices and discounts. Profit indicates the financial gain after deducting expenses from total sales revenues.
   * LOSS: Identify any instances of loss incured due to factor such as discounts, pricing strategies or operational inefficiencies. Loss analysis helps identify areas of improvement and cost- saving opportunities.
   * GROSS SALES: Total revenue generated from groceries sales beefore deducting any expenses. Gross sales provide an overview of the overall revenue generated from selling groceries.
- 
+ - SALES METRICS:
+   * UNIT SOLD: Quantity of groceries sold for each product, providing insight into demand patterns and sales volume.
+   * DISCOUNT: Percentage or amount of discount applied to the sales transactions. Discount data helps evaluate the effectiveness of promotional strategies and their impact on sales revenue. 
 
