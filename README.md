@@ -4,4 +4,13 @@
 
 ## GROCERIES PRODUCT SALES OVERVIEW
 ### The dataset consist of the following columns, segments( Enterprise, Mid-market, Small business, Government, Channel partners), customer-id which identifies each customers uniquely, unit sold which contain products that are sold out, manufacturing price, sales price, grosss sales, discount, sales, cost of goods sold (COGS), profits, dates, year, customer-name, product-name, country.
+
 - SEGMENT ANALYSIS: Identify and categorized customers into segments based on factors such as purchasing behaviours, demographics or business sizes. Segment includes mid-market, small business, government, enterprise and chanel partners.
+- PRODUCT DETAILS: Provide a comprehensive list of product_ids and corresponding names to catalog the assortment of groceries available for sales. This information helps track sales performance for each product and identify popular items.
+- GEOGRAPHIC ANALYSIS: Include country information to analyze sales trends and preferences across different regions. Geographic data helps identify high performing markets, localize marketing effort and optimize inventory management.
+- FINANCIAL METRICS:
+  * PROFIT: Calculate the profit generated from groceries sales, considering factors such as unit sold, manufacturing prices and discounts. Profit indicates the financial gain after deducting expenses from total sales revenues.
+  * LOSS: Identify any instances of loss incured due to factor such as discounts, pricing strategies or operational inefficiencies. Loss analysis helps identify areas of improvement and cost- saving opportunities.
+  * GROSS SALES: Total revenue generated from groceries sales beefore deducting any expenses. Gross sales provide an overview of the overall revenue generated from selling groceries.
+ 
+
