@@ -100,7 +100,7 @@ Other key performance indicators (KPI) are as follows:
 
 
 ## VISUALIZATION OF EACH DATA ANALYSIS USING MICROSOFT EXCEL
-With the use of excel functions and formulas to analyze the dataset, i was able to use microsoft excel to visualize the most valuable exploratory data i analyzed above.
+With the use of excel functions and formulas to analyze the dataset, i was able to use microsoft excel to visualize the most valuable exploratory data i analyzed above. slicers were added to the dashboard which has the months and years of the sales, this will help clearer understanding and also make the dashboard interactive.
 
 ## RECOMMENDATION
 * PRODUCT STRATEGY: The performance of product_id_02 is very impressive and the strategy or success factors used in achieving such has to be replicated across other products especially product _id_05. The issues relating to it has to be addressed in order for sales performance to be improved or the product need to be scrapped or dropped off completely.
