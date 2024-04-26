@@ -45,10 +45,17 @@ Other key performance indicators (KPI) are as follows:
 * profit and loss by country
 
 ## DATA ANALYSIS
-1. 💸 ### TOTAL SALES: The total sale/revenue between 2021 and 2022 is $ 118,726,350.3. Indicating the overall income generated from sales activities.
+1. 💸 TOTALSALES: The total sale/revenue between 2021 and 2022 is $ 118,726,350.3. Indicating the overall income generated from sales activities.
 
-2
+2. 💰 PROFIT: The profit earned during the period is $16,893,702.3, reflecting the financial gain after deducting expenses from sales revenue.
 
+3. LOSS: The calculated loss is $-777,321.25 indicating the negative financial impact resulting from certain transactions or activities.
+   
+4. PROFIT PERCENTAGE(%): It stands at 14%, demonstrating the efficiency of the business in generating profit relatively to total sales between 2021 and 2022.
+
+5. LOSS PERCENTAGE(%): -7% indicating the proportion of total sales lost as a result of negative financial outcome.
+
+6.
 
 
 
