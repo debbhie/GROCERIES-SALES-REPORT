@@ -63,6 +63,9 @@ Other key performance indicators (KPI) are as follows:
 
 * LOSS PERCENTAGE(%): -7% indicating the proportion of total sales lost as a result of negative financial outcome.
 
+ ![Screenshot groceries](https://github.com/debbhie/GROCERIES-SALES-REPORT/assets/161854079/5b6e6ea3-af60-4976-a0bb-cf88a62c510f)
+
+
 * TOP AND LEAST SELLING PRODUCTS: Top selling product, PRODUCT_ID_002 contributing significantly to the overall sales revenue with the total of $33,011,143.25.The top selling product in 2021 has the total of $16,197,299.76 while in 2022 it increase drastically to $27,096,396.86.
    The least selling product, PRODUCT_ID_005 indicates lower demand or low performance compared to other products. In 2021, the least selling product has a total of $1,406,865.86 and in 2022, it has the total sale revenue of $11,4415,018.84.
    Although, there is a massive increase in the least selling product in 2022, product_id_005 still is the least selling product amongs other products.
@@ -92,6 +95,9 @@ Other key performance indicators (KPI) are as follows:
 * PROFIT BY COUNTRY: Japsn recorded the highest profit of 19.22% in total of both 2021 and 2022. for the year 2021, france has the highest profit of 20.25 while 2022, it has the profit of 19.54%.
 
 * LOSS BY COUNTRY: India has the lowest profit generally in both 2021 and 2022 with 8.17%. For the year 2021, germany has the lowest profit of 7% and 2022 india has the lowest profit of 7.48%.
+
+  ![Screenshot groceries 2](https://github.com/debbhie/GROCERIES-SALES-REPORT/assets/161854079/78238063-1465-4a9c-a1a3-77de15dc2898)
+
 
 ## VISUALIZATION OF EACH DATA ANALYSIS USING MICROSOFT EXCEL
 With the use of excel functions and formulas to analyze the dataset, i was able to use microsoft excel to visualize the most valuable exploratory data i analyzed above.
