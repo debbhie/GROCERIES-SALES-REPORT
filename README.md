@@ -33,19 +33,21 @@ The primary data use for this analysis is gotten from microsoft excel. This file
   -[download here](www.microsoft.com)
 
 ## EXPLORATORY DATA ANALYSIS
-EDA involves exploring the dataset to answer primary key performance indicator (KPI) questions as follows:
+EDA involves exploring the dataset to answer primary key performance indicators (KPI) questions as follows:
 * What is the total sales/revenue?
 * Calculate the total profit and loss
 * Find the top and least selling product
 
-Other key performance indicator are as follows:
+Other key performance indicators (KPI) are as follows:
 * Monthly profit and loss trend
 * top sales by segment
 * sales and profit trend for top selling product
 * profit and loss by country
 
 ## DATA ANALYSIS
+1. ###💸 TOTAL SALES: The total sale/revenue between 2021 and 2022 is $ 118,726,350.3. Indicating the overall income generated from sales activities.
 
+2
 
 
 
