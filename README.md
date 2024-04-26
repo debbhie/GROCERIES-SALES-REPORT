@@ -1,4 +1,4 @@
-# PRODUCT SALES 
+# GROCERIES SALES 
 
 ## TABLE OF CONTENT
 
@@ -33,4 +33,31 @@ The primary data use for this analysis is gotten from microsoft excel. This file
   -[download here](www.microsoft.com)
 
 ## EXPLORATORY DATA ANALYSIS
-EDA involves exploring the dataset to answer primary key indicator (KPI) questions as follows:
+EDA involves exploring the dataset to answer primary key performance indicator (KPI) questions as follows:
+* What is the total sales/revenue?
+* Calculate the total profit and loss
+* Find the top and least selling product
+
+Other key performance indicator are as follows:
+* Monthly profit and loss trend
+* top sales by segment
+* sales and profit trend for top selling product
+* profit and loss by country
+
+## DATA ANALYSIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
