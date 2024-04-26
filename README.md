@@ -45,7 +45,7 @@ Other key performance indicators (KPI) are as follows:
 * profit and loss by country
 
 ## DATA ANALYSIS
-1. ###💸 TOTAL SALES: The total sale/revenue between 2021 and 2022 is $ 118,726,350.3. Indicating the overall income generated from sales activities.
+1. 💸 ### TOTAL SALES: The total sale/revenue between 2021 and 2022 is $ 118,726,350.3. Indicating the overall income generated from sales activities.
 
 2
 
